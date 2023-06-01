@@ -19,3 +19,5 @@ output.png
 out/
 build/
 /cmake-gen.bat
+bin/
+bin-int/
