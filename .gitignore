@@ -21,6 +21,5 @@ build/
 /cmake-gen.bat
 bin/
 bin-int/
-msdf-atlas-gen.sln
-msdf-atlas-gen.vcxproj
-msdf-atlas-gen.vcxproj.filters
+.sln
+*.vcxproj
